@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ **Skills**
-- Python, SQL
-- Machine Learning, Deep Learning, Problem Solving
+- Python, C#, SQL
+- Machine Learning, Deep Learning
 - Data: Analytic, Mining, Cleaning, Processing, Pipelines
 - Scikit-Learn, NLP, RNN
 - Google Cloud, Selenium
-- Communication, Teamwork, Attention to Detail
+- Problem Solving, Communication, Teamwork, Attention to Detail
