@@ -1,5 +1,8 @@
-## Hi there 👋
-<img src=https://drive.google.com/file/d/1BdqJNzPlzs2rnbG7uhkGD9SvSBxXUm9g/view?usp=sharing>
+![Image Text](https://drive.google.com/uc?export=view&id=1HO35AUeh1zs2hzEZKJ30qqyQIJliSSlD)
+
+# Hi my name is Hugo,
+\- I am devoted to learn more and improve every day.
+
 <!--
 **dancinoman/dancinoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ **Skills**
+- Python, SQL
+- Machine Learning, Deep Learning, Problem Solving
+- Data: Analytic, Mining, Cleaning, Processing, Pipelines
+- Scikit-Learn, NLP, RNN
+- Google Cloud, Selenium
+- Communication, Teamwork, Attention to Detail
