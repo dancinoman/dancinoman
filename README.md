@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - Python, C#, SQL
 - Machine Learning, Deep Learning
 - Data: Analytic, Mining, Cleaning, Processing, Pipelines
-- Scikit-Learn, NLP, RNN
+- Scikit-Learn, NLP, RNN, LLM
 - Google Cloud, Selenium
 - Problem Solving, Communication, Teamwork, Attention to Detail
