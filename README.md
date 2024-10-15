@@ -1,7 +1,7 @@
 ![Image Text](https://drive.google.com/uc?export=view&id=1WVwWzWi8dBaYvVBfvnSJje5ysMIxpE6D)
 
 # Hi my name is Hugo,
-\- I am devoted to learn more and improve every day.
+\- One day, I decided to follow my career dream and I am very proud.
 
 <!--
 **dancinoman/dancinoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
