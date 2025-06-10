@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ **Skills**
-- Python, C#, SQL
+- Python, C#, SQL, JavaScript, etc...
 - Machine Learning, Deep Learning
 - Data: Analytic, Mining, Cleaning, Processing, Pipelines
 - Scikit-Learn, NLP, RNN, LLM
